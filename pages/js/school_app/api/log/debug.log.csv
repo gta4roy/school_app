@@ -1,0 +1,131 @@
+DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
+"2016-03-01 21:38:35",INFO,--,0,12,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:38:35",INFO,--,0,13,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:38:35",INFO,--,0,14,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:38:35",INFO,--,0,15,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:38:35",INFO,--,0,16,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:36",INFO,--,0,12,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:36",INFO,--,0,13,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:36",INFO,--,0,14,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:36",INFO,--,0,15,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:36",INFO,--,0,16,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:44",INFO,--,0,12,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:44",INFO,--,0,13,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:44",INFO,--,0,14,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:44",INFO,--,0,15,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 21:44:44",INFO,--,0,16,/var/www/html/start/school_app/api/signup.php
+"2016-03-01 22:13:23",INFO,--,0,12,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-01 22:13:23",INFO,--,0,13,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-01 22:13:23",INFO,--,0,14,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-01 22:13:23",INFO,--,0,15,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-01 22:13:23",INFO,--,0,16,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:24:20",INFO,--,Array,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:24:20",INFO,--,Array,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:26:44",INFO,--,Array,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:26:44",INFO,--,Array,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:40:05",DEBUG,--,Array,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:40:05",DEBUG,--,Array,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:46:41",DEBUG,--,Array,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:46:41",DEBUG,--,Array,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:47:43",DEBUG,--,Array,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:47:43",DEBUG,--,Array,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:50:51",DEBUG,--,"Hi the log kjkdsjhfkdsfhsdArray",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:50:51",DEBUG,--,kdsjhfksdjhArray,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:51:36",DEBUG,--,"Hi the log kjkdsjhfkdsfhsdArray",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:51:36",DEBUG,--,kdsjhfksdjhArray,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:56:29",DEBUG,--,LogArray,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:56:29",DEBUG,--,ErrorArray,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:57:00",DEBUG,--,LogArray,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 20:57:00",DEBUG,--,ErrorArray,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:00:04",DEBUG,--,LogArray,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:00:30",DEBUG,--,LogArray,34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:02:09",DEBUG,--,"LogINSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES (NULL, NULL, NULL, NULL, NULL)",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:02:45",DEBUG,--,"LogINSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES (NULL, NULL, NULL, NULL, NULL)",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:03:46",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgdfgfdg', 'tsfgfdsg', 'banglore', 'parent', 'fdgdfg@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:03:46",DEBUG,--,"error00000|1062|Duplicate entry 'fdgdfgfdg' for key 'user_name_UNIQUE'",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:05:42",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgdfgfdg', 'tsfgfdsg', 'banglore', 'parent', 'fdgdfg@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:05:42",DEBUG,--,"error00000|1062|Duplicate entry 'fdgdfgfdg' for key 'user_name_UNIQUE'",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:05:45",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgdfgfdg', 'tsfgfdsg', 'banglore', 'parent', 'fdgdfg@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:05:45",DEBUG,--,"error00000|1062|Duplicate entry 'fdgdfgfdg' for key 'user_name_UNIQUE'",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:07:41",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfgfdgdfg', 'dkfkjashkjsah', 'new-delhi', 'parent', 'dhfsdfkjsdh@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:07:41",DEBUG,--,error00000||,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:10:52",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('asdsadasd', 'dkjfhdskjh', 'new-delhi', 'student', 'sadsadsada@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:10:52",DEBUG,--,error00000||,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:10:55",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('asdsadasd', 'dkjfhdskjh', 'new-delhi', 'student', 'sadsadsada@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:10:55",DEBUG,--,"error00000|1062|Duplicate entry 'asdsadasd' for key 'user_name_UNIQUE'",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:12:25",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfdsf', 'skdkdsjh', 'mumbai', 'school_rep', 'sdfdsf@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:12:25",DEBUG,--,error00000||,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:13:12",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('sdjfkjsdfkjhds', 'dljlakdflkj', 'new-delhi', 'parent', 'daslasdjlksaj@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:13:12",DEBUG,--,error00000||,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:20:53",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsdsf', 'dsjflsdkjf', 'new-delhi', 'parent', NULL)",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:20:53",DEBUG,--,"error00000|1048|Column 'email' cannot be null",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:21:48",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('sukhbeer', 'kdjhksajhd', 'new-delhi', 'parent', 'sukhbeer@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:21:48",DEBUG,--,error00000||,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:23:09",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('sukhbeer', 'kdjhksajhd', 'new-delhi', 'parent', 'sukhbeer@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:23:09",DEBUG,--,"error00000|1062|Duplicate entry 'sukhbeer' for key 'user_name_UNIQUE'",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:23:25",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsafasdsad', 'kjdsajhd', 'new-delhi', 'parent', 'sadsadsad@gmail.com')",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:23:25",DEBUG,--,error00000||,35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:24:10",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsf', 'dsfdsfds', NULL, 'parent', NULL)",34,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:24:10",DEBUG,--,"error00000|1048|Column 'city' cannot be null",35,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:29:43",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('sudesh', 'djhfkdsjhf', 'new-delhi', 'parent', 'sudeh@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:29:43",DEBUG,--,error00000||,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:31:22",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dffdsf', 'kjhdkjsahd', 'banglore', 'student', 'dsfdsf@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:31:22",DEBUG,--,error00000||,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:32:10",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES (NULL, NULL, NULL, NULL, NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:32:10",DEBUG,--,"error00000|1048|Column 'user_name' cannot be null",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:32:49",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfgdfgdf', 'dakhakjsh', 'banglore', 'student', 'dfgdfg@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:32:49",DEBUG,--,error00000||,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:33:02",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfgdfgdf', 'dakhakjsh', 'banglore', 'student', 'dfgdfg@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:33:02",DEBUG,--,"error00000|1062|Duplicate entry 'dfgdfgdf' for key 'user_name_UNIQUE'",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:33:37",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfgdfgdf', 'dakhakjsh', 'banglore', 'student', 'dfgdfg@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:33:37",DEBUG,--,"error00000|1062|Duplicate entry 'dfgdfgdf' for key 'user_name_UNIQUE'",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:34:45",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('ramanSingh', 'dakjdkjh', 'new-delhi', 'parent', 'ramsnsingh@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:34:45",DEBUG,--,error00000||,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:35:42",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfggdf', 'dakhkdajsh', 'new-delhi', 'parent', 'dsfdsfdsf@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:35:42",DEBUG,--,error00000||,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:36:00",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dfggdf', 'dakhkdajsh', 'new-delhi', 'parent', 'dsfdsfdsf@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:36:00",DEBUG,--,"error00000|1062|Duplicate entry 'dfggdf' for key 'user_name_UNIQUE'",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:37:29",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('susesj', 'lalksjlkj', 'banglore', 'student', 'sssjlkjlkj@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:37:29",DEBUG,--,error00000||,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:37:35",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('susesj', 'lalksjlkj', 'banglore', 'student', 'sssjlkjlkj@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:37:35",DEBUG,--,"error00000|1062|Duplicate entry 'susesj' for key 'user_name_UNIQUE'",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:38:40",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsf', 'dsfdsfds', 'new-delhi', 'student', NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:38:40",DEBUG,--,"error00000|1048|Column 'email' cannot be null",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:39:37",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdsfdsfdsf', 'dsdfsfds', 'banglore', 'student', NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:39:37",DEBUG,--,"error00000|1048|Column 'email' cannot be null",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:42:16",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsf', 'dsfdsfdsf', 'banglore', 'parent', NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:42:16",DEBUG,--,"error00000|1048|Column 'email' cannot be null",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:42:27",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsf', 'dsfdsfdsf', 'banglore', 'parent', NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:42:27",DEBUG,--,"error00000|1048|Column 'email' cannot be null",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:42:30",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsf', 'dsfdsfdsf', 'banglore', 'parent', NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:42:30",DEBUG,--,"error00000|1048|Column 'email' cannot be null",38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:43:21",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES (NULL, NULL, NULL, NULL, NULL)",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:43:21",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:44:15",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('abhijit Kumar Roy', '@Nic71201', 'new-delhi', 'school_rep', 'abhijitr@philips.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:44:15",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:45:28",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES (NULL, 'dksjhkjdsh', 'banglore', 'student', 'gta4roy@gmail.com')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:45:28",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:45:36",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgfdgfdg', 'dksjhkjdsh', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:45:36",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:45:39",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgfdgfdg', 'dksjhkjdsh', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:45:39",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:46:40",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgfdgfdg', 'dksjhkjdsh', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:46:40",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:46:45",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('wrerewrew', 'dksjhkjdsh', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:46:45",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:47:16",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('wrerewrew', 'dksjhkjdsh', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:47:16",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:47:33",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsfdsf', 'dksjhkjdsh', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:47:33",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:48:45",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('dsfdsfdsfdsf', '', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:48:45",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:48:49",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('fdgdfgdf', '', 'banglore', 'student', '')",37,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:48:49",DEBUG,--,error,38,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:56:41",DEBUG,--,"blank input from the user",21,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:57:12",DEBUG,--,"blank input from the user",21,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:57:21",DEBUG,--,"blank input from the user",21,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:57:36",DEBUG,--,"blank input from the user",21,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:58:06",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('Harshal Deelip Doshi', 'dhfgsdjgh', 'chennai', 'school_rep', 'deelip@gmail.com')",49,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:58:06",DEBUG,--,error,50,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:58:17",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('Harshal Deelip Doshi', 'dhfgsdjgh', 'chennai', 'school_rep', 'deelip@gmail.com')",49,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-03 21:58:17",DEBUG,--,error,50,/var/www/html/start/pages/js/school_app/api/signup.php

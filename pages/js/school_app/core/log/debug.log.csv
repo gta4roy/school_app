@@ -1,0 +1,570 @@
+DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
+"2016-01-23 18:08:13",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-23 18:20:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-23 18:20:57",INFO,--,"Database query :select * from admin where admin_name = '.master.' and admin_password = '.@Master12345.' success",65,/var/www/html/school_app/db_connection.php
+"2016-01-23 18:22:26",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-23 18:22:26",INFO,--,"Database query :select * from admin where admin_name = master and admin_password = @Master12345 success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 12:58:01",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 12:58:01",INFO,--,"Database query :select * from admin where admin_name = master and admin_password = @Master12345 success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 12:58:55",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 12:58:55",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:04:51",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:04:51",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:04:51",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:04:51",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:04:51",DEBUG,--,"Some Issue in inserting admin abhijit",42,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:07:11",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:11",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:11",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:11",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:11",DEBUG,--,"Some Issue in inserting admin abhijit",43,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:07:15",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:15",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:15",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:15",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:15",DEBUG,--,"Some Issue in inserting admin abhijit",43,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:07:35",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:35",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:35",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:35",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:35",DEBUG,--,"Some Issue in inserting admin abhijit",43,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:07:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:38",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:38",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:07:38",DEBUG,--,"Some Issue in inserting admin abhijit",43,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:09:49",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:49",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:49",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:49",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:49",DEBUG,--,"Some Issue in inserting admin abhijit",43,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:09:51",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:51",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:51",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:51",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:09:51",DEBUG,--,"Some Issue in inserting admin abhijit",43,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:13:29",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:29",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:29",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:29",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:29",DEBUG,--,"Some Issue in inserting admin abhijit",51,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:13:33",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:33",INFO,--,"Database query :select max(admin_id) from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:33",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:33",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:13:33",DEBUG,--,"Some Issue in inserting admin abhijit",51,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:14:10",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:10",INFO,--,"Database query :select max(admin_id) as index from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:10",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:10",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:10",DEBUG,--,"Some Issue in inserting admin abhijit",51,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:14:13",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:13",INFO,--,"Database query :select max(admin_id) as index from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:13",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:13",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:13",DEBUG,--,"Some Issue in inserting admin abhijit",51,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:14:36",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:36",INFO,--,"Database query :select max(admin_id) as index from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:36",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:36",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (1,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:14:36",DEBUG,--,"Some Issue in inserting admin abhijit",52,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:15:30",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:30",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:30",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:30",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (2,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:30",DEBUG,--,"Some Issue in inserting admin abhijit",52,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:15:32",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:33",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:33",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:33",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (2,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:15:33",DEBUG,--,"Some Issue in inserting admin abhijit",52,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:16:09",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:16:09",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:16:09",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:16:09",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (2,abhijit,7829712286,Century Marvel,@Ceg71201,False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:16:09",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:20:32",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:32",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:32",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:32",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values ('2','abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:32",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:20:55",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:55",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:55",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:55",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (2,'abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:20:55",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:22:11",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:22:11",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:22:11",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:22:11",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (2,'abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:22:11",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:28:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:00",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:00",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:00",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:00",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:28:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:04",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:04",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:04",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",138,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:28:04",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:30:22",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:22",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:22",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:22",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:22",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",139,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:22",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:30:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:38",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:38",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:38",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'abhijit','7829712286','Century Marvel','@Ceg71201',False) failed",139,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:30:38",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 14:32:28",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:32:28",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:32:28",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:32:28",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'gaurav','7829712286','Century Marvel','@Ceg71201',False) success",65,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:32:28",INFO,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (4,'gaurav','7829712286','Century Marvel','@Ceg71201',False) success",136,/var/www/html/school_app/db_connection.php
+"2016-01-24 14:32:28",INFO,--,"Admin user added gaurav",55,/var/www/html/school_app/create_admin_user.php
+"2016-01-24 20:42:05",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:05",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:05",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:05",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:05",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:11",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:11",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:11",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:11",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:11",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:12",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:12",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:12",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:12",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:12",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:35",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:35",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:35",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:35",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:35",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:37",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:37",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:37",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:37",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:37",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:38",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:38",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:38",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:48",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:48",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:48",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:49",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:49",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:49",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:50",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:50",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:42:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:42:50",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:50:47",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:50:47",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:50:47",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:50:47",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:50:47",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:32",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:32",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:32",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:51:32",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:32",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:36",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:36",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:36",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:51:36",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:36",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:53",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:53",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:51:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:53",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:57",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:57",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:51:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:57",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:59",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:59",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:59",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:51:59",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:51:59",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:02",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:02",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:02",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:02",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:02",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:04",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:04",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:04",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:07",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:07",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:07",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:07",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:07",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:10",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:10",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:10",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:10",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:10",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:12",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:12",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:12",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:12",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:12",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:15",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:15",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:15",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:15",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:15",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:17",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:17",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:17",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:17",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:17",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:20",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:20",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:20",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:20",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:20",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:23",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:52:23",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:52:23",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:54",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:54",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:54",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:53:54",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:54",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:57",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:57",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:53:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:57",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:59",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:59",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:59",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:53:59",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:53:59",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:54:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:54:00",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:54:00",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:54:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:54:00",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:30",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:30",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:30",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:30",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:30",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:33",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:33",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:33",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:33",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:33",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:36",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:36",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:36",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:36",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:36",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:38",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:38",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:38",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:38",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:41",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:41",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:41",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:41",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:41",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:43",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:43",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:43",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:43",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:43",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:45",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:45",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:45",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:55:45",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:55:45",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:48",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:48",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:56:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:48",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:51",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:51",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:51",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:56:51",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:51",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:53",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:53",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:56:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:53",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:56",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:56",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:56",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:56:56",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:56",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:58",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:58",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:58",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:56:58",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:56:58",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:01",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:01",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:01",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:01",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:01",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:04",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:04",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Abhi786' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:42",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (5,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (5,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",136,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:42",INFO,--,"Admin user added abhijit",55,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:44",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:44",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:44",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:47",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:47",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:47",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:50",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:52",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:52",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:52",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:55",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:55",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:55",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:57:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:57:57",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:00",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:03",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:03",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:03",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:05",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:05",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:05",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:08",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:08",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:08",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:09",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 20:58:09",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 20:58:09",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:45",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:45",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:45",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:48",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:50",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:53",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:54",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:54",INFO,--,"Database query :select max(admin_id) as 'index' from admin success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:54",INFO,--,"validating master user ",63,/var/www/html/school_app/core/create_admin_user.php
+"2016-01-24 23:32:54",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:54",INFO,--,"Database query :select * from admin where admin_name = 'master' and admin_password = '@Master12345' success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:54",INFO,--,"Database connected to db hostlocalhost and username root",45,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:55",INFO,--,"Database query :insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) success",65,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:55",DEBUG,--,"Insert Query insert into admin(admin_id,admin_name,admin_contact,admin_address,admin_password,admin_is_super)
+					values (6,'abhijit','9839782782','Century Marvel Apar','@Abhi786',False) failed",139,/var/www/html/school_app/core/db_connection.php
+"2016-01-24 23:32:55",DEBUG,--,"Some Issue in inserting admin abhijit",53,/var/www/html/school_app/core/create_admin_user.php

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body>
+<div ng-app="myApp" ng-init="firstname='John';secondname='manav'" ng-controller="myCtrl">
+<p>The name is <span ng-bind="firstname"></span></p>
+<p>The name is <span ng-bind="secondname"></span></p>
+<p>lets calculate  {{ 5+5 }}</p>
+ <p>Name: <input type="text" ng-model="name"></p>
+  <p>{{name}}</p>
+  
+ first name <input type="text" ng-model="username" > </br>
+ secons name <input type="text" ng-model="password"> 
+ 
+ <p>Full name   {{ username +" "+password}}</p>
+  
+ <p> Calculator </p>
+ <br> First Number : <input type="text" ng-model="num1">
+ <br> Second Number : <input type="text" ng-model="num2">
+ <br> Addition = <span ng-model="add"></span>
+ <br> Subtract = <span ng-model="sub"></span>
+<br> Multiply = <span ng-model="mul"></span>
+<br> Devide = <span ng-model="div"></span> 
+  
+</div>
+
+
+<script>
+var app = angular.module('myApp',[]);
+app.controller('myCtrl',function($scope){
+$scope.username = "abhijit";
+$scope.password ="jkdnjnje";
+
+$scope.add = $scope.num1 + $scope.num2;
+
+
+})
+
+</script>
+
+</body>
+</html>
