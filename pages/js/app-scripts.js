@@ -20,6 +20,10 @@ create_user_app.config(['$routeProvider',
         templateUrl: 'main_page_view.html',
         controller: 'main_ctrl'
       }).
+     when('/student_profile', {
+        templateUrl: 'student_profile_page_view.html',
+        controller: 'student_profile_ctrl'
+      }).
       otherwise({
         redirectTo: '/signUp'
       });
@@ -62,19 +66,15 @@ create_user_app.controller('signup_ctrl',function($scope, $http,$location) {
 
 create_user_app.controller('login_ctrl',function($scope, $http,$location) {
 
-		$scope.signup_submit_data = function() 
+		$scope.login_submit = function() 
 		{
 
 			$http({
 				method: "post",
-				url: "js/school_app/api/signup.php",
+				url: "js/school_app/api/login.php",
 				data: {
 					email     : $scope.email,
-					pass	  : $scope.pass,
-					username : $scope.username,
-					city      : $scope.city,
-					role      : $scope.role
-					
+					pass	  : $scope.pass
 				},
 				headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
 
@@ -87,11 +87,14 @@ create_user_app.controller('login_ctrl',function($scope, $http,$location) {
 				}else{
 					
 				//	$scope.error_msg = $location.path();
-					$location.path("/Login");
+					$location.path("/profile");
 				
 				}	
 
 			});
+            $scope.username = "abhijit";
+            $scope.profile  = "Student";
+            $location.path("/profile");
 			
 	      }
 }).$inject = ['$location'];
@@ -101,3 +104,72 @@ create_user_app.controller('main_ctrl',function($scope, $http,$location) {
 	
 }).$inject = ['$location'];
 
+create_user_app.controller('student_profile_ctrl',function($scope, $http,$location) {
+
+		$scope.login_submit = function() 
+		{
+
+			$http({
+				method: "post",
+				url: "js/school_app/api/student_profile.php",
+				data: {
+					email     : $scope.email,
+					pass	  : $scope.pass
+				},
+				headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+
+			}).success(function(data,status,header,config){
+
+			
+				if(parseInt(data.ret) === 0){
+
+					$scope.error_msg = data.error;
+				}else{
+					
+				//	$scope.error_msg = $location.path();
+					$location.path("/profile");
+				
+				}	
+
+			});
+            $scope.username = "abhijit";
+            $scope.profile  = "Student";
+            $location.path("/student_profile");
+			
+	      }
+        
+        $scope.upload_image = function() 
+		{
+            
+			$http({
+				method: "post",
+				url: "js/school_app/api/profilepic",
+				data: formdata,
+				headers: { 'Content-Type': 'undefined' }
+
+			}).success(function(data,status,header,config){
+
+			
+				if(parseInt(data.ret) === 0){
+
+					$scope.error_msg = data.error;
+				}else{
+					
+				//	$scope.error_msg = $location.path();
+					$location.path("/profile");
+				
+				}	
+
+			});
+            $scope.username = "abhijit";
+            $scope.profile  = "Student";
+            $location.path("/student_profile");
+			
+	      }
+        
+}).$inject = ['$location'];
+
+create_user_app.controller('main_ctrl',function($scope, $http,$location) {
+
+	
+}).$inject = ['$location'];
