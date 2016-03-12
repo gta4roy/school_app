@@ -1,0 +1,365 @@
+   <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-bar-chart-o fa-fw"></i> Search 
+                            <div class="pull-right">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+                                        More
+                                        <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu pull-right" role="menu">
+                                        <li><a href="#">advance search</a>
+                                        </li>
+                                        <li><a href="#">minimal search</a>
+                                        </li>
+                                        <li><a href="#">Something else here</a>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li><a href="#">Separated link</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body"> <!--search box for schools --->
+                            <div id="minimum search">
+			   	<form role="form">
+                                        <div class="form-group" >
+                                            <label>Search By Location</label>
+                                            <input class="form-control">
+                                            <p class="help-block">Search Schools by any location.</p>
+											
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Search By Name</label>
+                                            <input class="form-control" placeholder="Enter text">
+                                        </div>
+                                        <button type="submit" class="btn btn-default">Submit Button</button>
+                                        <button type="reset" class="btn btn-default">Reset Button</button>
+                                    </form>
+			    </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-bar-chart-o fa-fw"></i> Search Schools by Map
+                            <div class="pull-right">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+                                        More
+                                        <span class="caret"></span>
+                                    </button>
+                                    <ul class="dropdown-menu pull-right" role="menu">
+                                        <li><a href="#">Action</a>
+                                        </li>
+                                        <li><a href="#">Another action</a>
+                                        </li>
+                                        <li><a href="#">Something else here</a>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li><a href="#">Separated link</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="row">
+                                <div id="map-container" class="col-lg-4">
+                                    <!-- /.google maps  -->
+                                </div>
+                                <!-- /.col-lg-4 (nested) -->
+                                <div class="col-lg-8">
+                                    <div id="morris-bar-chart"></div>
+                                </div>
+                                <!-- /.col-lg-8 (nested) -->
+                            </div>
+                            <!-- /.row -->
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-clock-o fa-fw"></i> Search Results 
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+
+				<div class="panel panel-primary">
+                        		<div class="panel-heading">
+                            			Christ Church College Lucknow
+                        		</div>
+                       			 <div class="panel-body">
+
+						<div class="media">
+  						<div class="media-left media-middle">
+    						<a href="#">
+    							  <img class="media-object" src="#" alt="#">
+ 						</a>
+ 						</div>
+ 						 <div class="media-body">
+  						  <h4 class="media-heading">Middle aligned media</h4>
+                        			    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+						  </div>
+						</div>
+
+
+
+                        		</div>
+                      			  <div class="panel-footer">
+                            		Know More
+                       			 </div>
+                  		 </div>
+
+				<div class="panel panel-green">
+                        		<div class="panel-heading">
+                            			St Fransis College Lucknow
+                        		</div>
+                       			 <div class="panel-body">
+                        			    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        		</div>
+                      			  <div class="panel-footer">
+                            		Know More
+                       			 </div>
+                  		 </div>
+
+
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-8 -->
+                <div class="col-lg-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-bell fa-fw"></i> Advance Search Options
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+						<form role="form">
+                            <div class="form-group">
+							<label for="school_timing">School Timings</label>
+							<select id="school_timing" class="form-control">
+								<option>Full Day (9 am to 4 pm)</option>
+								<option>Half Day (7 am to 12 pm)</option>
+								<option>Evening School (1 pm to 5 pm)</option>
+							</select>
+							</div>
+							<div class="form-group">
+							<label for="school_category">Category</label>
+							<select id="school_category" class="form-control">
+								<option>Government</option>
+								<option>Private</option>
+								<option>Semi Government</option>
+							</select>
+							</div>
+							<div class="form-group">
+							<label for="school_courses">Courses</label>
+							<select id="school_courses" class="form-control">
+								<option>Pre Nursery</option>
+								<option>Kindergarten</option>
+								<option>Primary</option>
+								<option>Upper Primary</option>
+								<option>PUC/12th</option>
+								<option>Special School for the Handicap</option>
+							</select>
+							</div>
+							<div class="form-group">
+							<label for="school_size">Size</label>
+							<select id="school_size" class="form-control">
+								<option>3000+</option>
+								<option>2000+</option>
+								<option>1000+</option>
+								<option>500+</option>
+								<option>500-</option>
+							</select>
+							</div>
+							<div class="form-group">
+							<label for="school_board">board</label>
+							<select id="school_board" class="form-control">
+								<option>CBSE</option>
+								<option>ICSE</option>
+								<option>STATE BOARD</option>
+							</select>
+							</div>
+							
+							<div class="form-group">
+							<label for="school_medium">Medium of Teaching</label>
+							<select id="school_medium" class="form-control">
+								<option>English</option>
+								<option>Hindi</option>
+								<option>Kannada</option>
+								<option>Others</option>
+							</select>
+							</div>
+							
+							<div class="form-group">
+							<label for="school_admission_method">Admission Method</label>
+							<select id="school_admission_method" class="form-control">
+								<option>Interview</option>
+								<option>Written test+ interview</option>
+								<option>percent criteria</option>
+								<option>Govt Procedure</option>
+								<option>School Prerogative</option>
+							</select>
+							</div>
+							
+							<div class="form-group">
+							<label for="school_religous_preference">Religous Preference</label>
+							<select id="school_religous_preference" class="form-control">
+								<option>Govt Nuetral</option>
+								<option>Hundu Trust</option>
+								<option>Muslim Trust /Mosque Schools</option>
+								<option>Sikh Gurdyawara</option>
+								<option>Christian Minority School</option>
+							</select>
+							</div>
+						</form>
+                            <!-- /.list-group -->
+                            <a href="#" class="btn btn-default btn-block">View All Alerts</a>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-bar-chart-o fa-fw"></i> Donut Chart Example
+                        </div>
+                        <div class="panel-body">
+                            <div id="morris-donut-chart"></div>
+                            <a href="#" class="btn btn-default btn-block">View Details</a>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                    <div class="chat-panel panel panel-default">
+                        <div class="panel-heading">
+                            <i class="fa fa-comments fa-fw"></i>
+                            Chat
+                            <div class="btn-group pull-right">
+                                <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+                                    <i class="fa fa-chevron-down"></i>
+                                </button>
+                                <ul class="dropdown-menu slidedown">
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-refresh fa-fw"></i> Refresh
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-check-circle fa-fw"></i> Available
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-times fa-fw"></i> Busy
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-clock-o fa-fw"></i> Away
+                                        </a>
+                                    </li>
+                                    <li class="divider"></li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fa fa-sign-out fa-fw"></i> Sign Out
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <ul class="chat">
+                                <li class="left clearfix">
+                                    <span class="chat-img pull-left">
+                                        <img src="http://placehold.it/50/55C1E7/fff" alt="User Avatar" class="img-circle" />
+                                    </span>
+                                    <div class="chat-body clearfix">
+                                        <div class="header">
+                                            <strong class="primary-font">Jack Sparrow</strong>
+                                            <small class="pull-right text-muted">
+                                                <i class="fa fa-clock-o fa-fw"></i> 12 mins ago
+                                            </small>
+                                        </div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li class="right clearfix">
+                                    <span class="chat-img pull-right">
+                                        <img src="http://placehold.it/50/FA6F57/fff" alt="User Avatar" class="img-circle" />
+                                    </span>
+                                    <div class="chat-body clearfix">
+                                        <div class="header">
+                                            <small class=" text-muted">
+                                                <i class="fa fa-clock-o fa-fw"></i> 13 mins ago</small>
+                                            <strong class="pull-right primary-font">Bhaumik Patel</strong>
+                                        </div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li class="left clearfix">
+                                    <span class="chat-img pull-left">
+                                        <img src="http://placehold.it/50/55C1E7/fff" alt="User Avatar" class="img-circle" />
+                                    </span>
+                                    <div class="chat-body clearfix">
+                                        <div class="header">
+                                            <strong class="primary-font">Jack Sparrow</strong>
+                                            <small class="pull-right text-muted">
+                                                <i class="fa fa-clock-o fa-fw"></i> 14 mins ago</small>
+                                        </div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                        </p>
+                                    </div>
+                                </li>
+                                <li class="right clearfix">
+                                    <span class="chat-img pull-right">
+                                        <img src="http://placehold.it/50/FA6F57/fff" alt="User Avatar" class="img-circle" />
+                                    </span>
+                                    <div class="chat-body clearfix">
+                                        <div class="header">
+                                            <small class=" text-muted">
+                                                <i class="fa fa-clock-o fa-fw"></i> 15 mins ago</small>
+                                            <strong class="pull-right primary-font">Bhaumik Patel</strong>
+                                        </div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /.panel-body -->
+                        <div class="panel-footer">
+                            <div class="input-group">
+                                <input id="btn-input" type="text" class="form-control input-sm" placeholder="Type your message here..." />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-warning btn-sm" id="btn-chat">
+                                        Send
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                        <!-- /.panel-footer -->
+                    </div>
+                    <!-- /.panel .chat-panel -->
+                </div>
+                <!-- /.col-lg-4 -->
+            </div>
+            <!-- /.row -->
