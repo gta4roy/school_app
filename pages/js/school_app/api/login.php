@@ -9,17 +9,10 @@
 
 		$email    = $_POST->email;
 		$pass     = $_POST->pass;
-<<<<<<< HEAD
-		$username = $_POST->username;
-		$city     = $_POST->city;	
-		$role     = $_POST->role;
 		
-		if(empty(trim($email)) || empty(trim($pass)) || empty(trim($username)) || empty(trim($city)) || empty(trim($role)) )
-=======
 		
 		
 		if(empty(trim($email)) || empty(trim($pass)))
->>>>>>> e11438e89a71f97facdfd11b5530dc8f345914df
 		{
 			$data['ret']     = "0";
 			$data['error']   = "blank values";
@@ -32,19 +25,13 @@
 
 		try
 		{
-	
-<<<<<<< HEAD
-		$ret = $database->insert("tbl_users", [
-			"user_name" => $username,
-			"password" => $pass,
-			"city"     => $city,
-			"role"     => $role,
-=======
-		$ret = $database->select("tbl_users", [
-			"password" => $pass,
->>>>>>> e11438e89a71f97facdfd11b5530dc8f345914df
-			"email"    => $email
-		]);
+
+		$ret = $database->select("tbl_users", "user_name","city","role", [
+			"AND" => [
+				"password[=]" => $pass,
+				"email[=]" => $email
+			]	
+		]);	
 	
 		}catch(Exception $ex){
 			$data['errors'] = $ex->getMessage();

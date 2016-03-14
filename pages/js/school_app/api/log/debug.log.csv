@@ -196,3 +196,4 @@ DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
 "2016-03-12 11:37:05",DEBUG,--,error,50,/var/www/html/start/pages/js/school_app/api/signup.php
 "2016-03-12 12:35:22",DEBUG,--,"Query:INSERT INTO ""tbl_users"" (""user_name"", ""password"", ""city"", ""role"", ""email"") VALUES ('abhijitRoy', '71201', 'banglore', 'student', 'abhijitRoy@gmail.com')",49,/var/www/html/start/pages/js/school_app/api/signup.php
 "2016-03-12 12:35:22",DEBUG,--,error,50,/var/www/html/start/pages/js/school_app/api/signup.php
+"2016-03-13 00:36:14",DEBUG,--,"blank input from the user",20,/var/www/html/start/pages/js/school_app/api/login.php

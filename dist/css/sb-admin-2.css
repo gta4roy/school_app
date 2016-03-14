@@ -355,3 +355,18 @@ table.dataTable thead .sorting:after {
 }
 
 #map-container {height: 300px ; width:100% }
+
+.option_bad{
+    background-color: red ;
+}
+
+.option_good{
+    background-color: green ;
+}
+.option_very_good {
+    background-color: blue;
+}
+
+.option_excellent {
+    background-color: blueviolet;
+}
